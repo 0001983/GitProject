@@ -6,5 +6,5 @@ public class StringUtil {
     // convert String to List
 
 
-    // proper tanss
+    // proper format
 }
